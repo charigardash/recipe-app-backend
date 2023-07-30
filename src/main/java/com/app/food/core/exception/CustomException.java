@@ -1,4 +1,4 @@
-package com.example.food.recipe.exception;
+package com.app.food.core.exception;
 
 import org.springframework.http.HttpStatus;
 

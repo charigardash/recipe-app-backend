@@ -1,4 +1,4 @@
-package com.example.food.recipe.config;
+package com.app.food.core.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

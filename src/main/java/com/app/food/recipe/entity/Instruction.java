@@ -1,4 +1,4 @@
-package com.example.food.recipe.entity;
+package com.app.food.recipe.entity;
 
 import java.io.Serializable;
 
