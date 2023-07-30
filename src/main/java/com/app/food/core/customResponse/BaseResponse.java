@@ -18,8 +18,7 @@ public class BaseResponse<T> implements Serializable {
 
     @JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd-MM-yyyy hh:mm:ss a")
     private LocalDateTime timestamp = LocalDateTime.now();
-    private String status;
-    private String message;
+    private boolean ok;
     private T data;
     private ErrorResponse error;
 }
