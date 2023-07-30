@@ -1,4 +1,4 @@
-package com.example.food.recipe;
+package com.app.food.recipe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,12 +1,12 @@
-package com.example.food.recipe.databaseEntity;
+package com.app.food.recipe.databaseEntity;
 
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
 
-import com.example.food.recipe.entity.BaseEntity;
-import com.example.food.recipe.entity.RecipeIngredient;
-import com.example.food.recipe.entity.RecipeInstruction;
-import com.example.food.recipe.entity.RecipeUserFeedBack;
+import com.app.food.recipe.entity.BaseEntity;
+import com.app.food.recipe.entity.RecipeIngredient;
+import com.app.food.recipe.entity.RecipeInstruction;
+import com.app.food.recipe.entity.RecipeUserFeedBack;
 
 import jakarta.persistence.Id;
 import lombok.Data;
